@@ -1,2 +1,8 @@
-package example.board.web.board;public class BoardController {
+package example.board.web.board;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class BoardController {
+
 }

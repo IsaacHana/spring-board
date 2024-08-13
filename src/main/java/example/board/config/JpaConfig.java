@@ -1,2 +1,8 @@
-package example.board.config;public class JpaConfig {
+package example.board.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class JpaConfig {
+
 }
